@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hey there, Petros here!
 
-<!--
-**petros-chantz/petros-chantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ##### I'm a UX Researcher and an all around creative technologist. 
+- ##### I'm passionate about **making**, **prototyping** and **fabricating** within all mediums.  
+- ##### I'm always eager to learn with and from others. 
 
-Here are some ideas to get you started:
+##### Currently busy learning **React.js** (soonish **Gatsby.js** - *maybe ?*) and other front-end libraries/frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*oh! And if you have any new good responsive CSS tips don't be shy! Drop them into my inbox!* 
+
+### Since you are already here, check out some of my React projects
+- [My-Shop](https://github.com/koukoumpitsa/shop) a first exploration on creating an e-shop app
+- [Inspirational-quote:](https://github.com/koukoumpitsa/inspirational-quote) a quick test on using onClick events with Fetch Api
+
+### Contact
+- [Portfolio](#) 
+- [Email](petros.chantz@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/petroschantz/)
