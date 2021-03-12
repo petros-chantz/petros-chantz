@@ -8,7 +8,7 @@
 
 *oh! And if you have any new good responsive CSS tips don't be shy! Drop them into my inbox!* 
 
-<br/>
+
 ### Contact
 - ##### [Portfolio](#) 
 - ##### [Email](petros.chantz@gmail.com)
