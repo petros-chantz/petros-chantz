@@ -1,6 +1,6 @@
 ## Hey there, Petros here!
 
-- #### I'm a UX Researcher and an all around creative technologist. 
+- #### I'm a UX Researcher and an all around Creative Technologist. 
 - #### I'm passionate about **making**, **prototyping** and **fabricating** within all mediums.  
 - #### I'm always eager to learn with and from others. 
 
