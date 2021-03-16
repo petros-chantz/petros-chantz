@@ -4,7 +4,7 @@
 - #### I'm passionate about **making**, **prototyping** and **fabricating** within all mediums.  
 - #### I'm always eager to learn with and from others. 
 
-##### Currently busy learning **React.js** (soonish **Gatsby.js** - *maybe ?*) and other front-end libraries/frameworks.
+##### Currently busy learning **React.js** (soonish **D3.js**) and other front-end libraries/frameworks.
 
 
 
