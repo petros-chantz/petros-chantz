@@ -2,11 +2,9 @@
 
 - #### I'm a UX Researcher and an all around Creative Technologist. 
 - #### I'm passionate about **making**, **prototyping** and **fabricating** within all mediums.  
-- #### I'm always eager to learn with and from others. 
+- #### I'm interested in how data can be used as a design material to inform and inspire the design process. 
 
-##### Currently busy learning **React.js** (soonish **D3.js**) and other front-end libraries/frameworks.
-
-
+### Working with React.js and D3.js and other front-end libraries/frameworks
 
 ### Since you are already here, check out some of my React projects
 - #### [My-Shop](https://github.com/koukoumpitsa/shop) a first exploration on creating an e-shop app
@@ -14,6 +12,6 @@
 
 
 ### Contact
-- #### [Portfolio](#) 
+- #### [Portfolio](petros-chantzopoulos.com) 
 - #### [Email](petros.chantz@gmail.com)
 - #### [LinkedIn](https://www.linkedin.com/in/petroschantz/)
