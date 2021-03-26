@@ -1,13 +1,19 @@
 ## Hey there, Petros here!
 
 - #### I'm a UX Researcher and an all around Creative Technologist. 
-- #### I'm passionate about **making**, **prototyping** and **fabricating** within all mediums.  
 - #### I'm interested in how data can be used as a design material to inform and inspire the design process. 
 
 ### Working with React.js - D3.js and other front-end libraries/frameworks
 <br/>
 
-### Since you are already here, check out some of my React projects
+### Projects I'm currenty working on:
+- #### [Portfolio](https://github.com/petros-chantz/test-portfolio) updating my professional portfolio
+- #### [Book Review](https://github.com/petros-chantz/Book-Review-app) a search app for finding book reviews 
+- #### [User Info](https://github.com/petros-chantz/User-info-app) an exploration on showcasing user's profiles 
+- #### [NewsFlash](https://github.com/petros-chantz/NewsFlash-app) reading the latest top stories from the New York Times 
+- #### [Employee Data](https://github.com/petros-chantz/Employee-Data-app) a mockup for searching and creating employee's profiles with Google Sheets and REST API
+
+### Completed Projects: 
 - #### [My-Shop](https://github.com/koukoumpitsa/shop) a first exploration on creating an e-shop app
 - #### [Inspirational-quote:](https://github.com/koukoumpitsa/inspirational-quote) a quick test on using onClick events with Fetch Api
 
