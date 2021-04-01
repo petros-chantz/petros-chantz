@@ -3,6 +3,7 @@
 - #### I'm a UX Researcher and an all around Creative Technologist. 
 - #### I'm interested in how data can be used as a design material to inform and inspire the design process. 
 - #### Working with React.js - D3.js and other front-end libraries/frameworks
+<br/>
 
 ### Projects I'm currenty working on:
 - #### [Portfolio](https://github.com/petros-chantz/test-portfolio) updating my professional portfolio
