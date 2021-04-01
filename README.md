@@ -10,8 +10,6 @@
 - #### [Portfolio](https://github.com/petros-chantz/test-portfolio) updating my professional portfolio
 - #### [Book Review](https://github.com/petros-chantz/Book-Review-app) a search app for finding book reviews 
 - #### [User Info](https://github.com/petros-chantz/User-info-app) an exploration on showcasing user's profiles 
-- #### [NewsFlash](https://github.com/petros-chantz/NewsFlash-app) reading the latest top stories from the New York Times 
-- #### [Employee Data](https://github.com/petros-chantz/Employee-Data-app) a mockup for searching and creating employee's profiles with Google Sheets and REST API
 
 ### Completed Projects: 
 - #### [My-Shop](https://github.com/koukoumpitsa/shop) a first exploration on creating an e-shop app
