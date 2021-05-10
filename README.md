@@ -1,14 +1,12 @@
 ## Hey there, Petros here!
 
 - #### I'm a UX Researcher and an all around Creative Technologist. 
-- #### I'm interested in how data can be used as a design material to inform and inspire the design process. 
-- #### Working with React.js - D3.js and other front-end libraries/frameworks
+- #### I hold a Master's Degree in Constructive Design Research from Technical University of Eindhoven, the Netherlands.
+- #### I’m passionate about everything frontend related (React.js) and with emphasis on the use of data as a design material.
 <br/>
 
 ### Projects I'm currenty working on:
 - #### [Portfolio](https://github.com/petros-chantz/test-portfolio) updating my professional portfolio
-- #### [Book Review](https://github.com/petros-chantz/Book-Review-app) a search app for finding book reviews 
-- #### [User Info](https://github.com/petros-chantz/User-info-app) an exploration on showcasing user's profiles 
 
 ### Contact
 - #### [Portfolio](https://petros-chantzopoulos.com/) 
