@@ -10,6 +10,7 @@
 
 ### Projects Finished 
 - #### [News App](https://github.com/petros-chantz/InANutshell) A minimalistic news app utilizing New York Times's top stories RESTApi.
+- #### [FAQ Accordion Card](https://github.com/petros-chantz/FAQ-app) A fictional FAQ Accordion Card for a commercial application.
 
 ### Contact
 - #### [Portfolio](https://petros-chantzopoulos.com/) 
