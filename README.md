@@ -11,7 +11,7 @@
 - #### [UserInfo]() A social media clone using GraphQl. 
 
 ### Projects Finished 
-- #### [News App](https://github.com/petros-chantz/News-app) A minimalistic news app utilizing New York Times's top stories RESTapi.
+- #### [News App](https://github.com/petros-chantz/News-app) A minimalistic news app utilizing New York Times's top stories REST API.
 - #### [FAQ Accordion Card](https://github.com/petros-chantz/FAQ-app) A fictional FAQ Accordion Card for a commercial application.
 - #### [Portfolio](https://github.com/petros-chantz/test-portfolio) my professional portfolio
 
