@@ -6,11 +6,12 @@
 <br/>
 
 ### Projects I'm currenty working on:
-- #### [Portfolio](https://github.com/petros-chantz/test-portfolio) updating my professional portfolio
+- #### [Book Review](https://github.com/petros-chantz/Book-Review-app) React app utilizing New York Times's Book Review REST API to let users discover and save new books. 
 
 ### Projects Finished 
 - #### [News App](https://github.com/petros-chantz/News-app) A minimalistic news app utilizing New York Times's top stories RESTapi.
 - #### [FAQ Accordion Card](https://github.com/petros-chantz/FAQ-app) A fictional FAQ Accordion Card for a commercial application.
+- #### [Portfolio](https://github.com/petros-chantz/test-portfolio) my professional portfolio
 
 ### Contact
 - #### [Portfolio](https://petros-chantzopoulos.com/) 
