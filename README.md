@@ -9,7 +9,7 @@
 - #### [Portfolio](https://github.com/petros-chantz/test-portfolio) updating my professional portfolio
 
 ### Projects Finished 
-- #### [News App](https://github.com/petros-chantz/InANutshell) A minimalistic news app utilizing New York Times's top stories RESTApi.
+- #### [News App](https://github.com/petros-chantz/News-app) A minimalistic news app utilizing New York Times's top stories RESTapi.
 - #### [FAQ Accordion Card](https://github.com/petros-chantz/FAQ-app) A fictional FAQ Accordion Card for a commercial application.
 
 ### Contact
