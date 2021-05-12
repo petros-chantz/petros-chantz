@@ -14,6 +14,4 @@
 - #### [Portfolio](https://github.com/petros-chantz/test-portfolio) my professional portfolio
 
 ### Contact
-- #### [Portfolio](https://petros-chantzopoulos.com/) 
-- #### [Email](petros.chantz@gmail.com)
-- #### [LinkedIn](https://www.linkedin.com/in/petroschantz/)
+#### [Portfolio](https://petros-chantzopoulos.com/) -   [Email](petros.chantz@gmail.com) -   [LinkedIn](https://www.linkedin.com/in/petroschantz/)
