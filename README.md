@@ -7,7 +7,7 @@
 
 ### Projects I'm currenty working on:
 - #### [Book Review](https://github.com/petros-chantz/Book-Review-app) React app utilizing New York Times's Book Review REST API to let users discover and save new books. 
-- #### [eEmployees]() A fictional corporate adminitration app utilizating Google Sheets API to log, delete and check employees personal details. 
+- #### [eEmployees]() A fictional adminitration app utilizating Google Sheets API to log, delete and check employees personal details. 
 - #### [User Info]() A social media clone using GraphQl. 
 
 ### Projects Finished 
