@@ -6,12 +6,12 @@
 <br/>
 
 ### Projects I'm currenty working on:
-- #### [Custom Webpack Boilerplate]() A custom Webpack boilerplate with a basic folder structure and pre-installed commonly used Npm packages for creating new React.js projects without the hassle!
 - #### [Book Review](https://github.com/petros-chantz/Book-Review-app) React app utilizing New York Times's Book Review REST API to let users discover and save new books. 
 - #### [eEmployees]() A fictional corporate adminitration app utilizating Google Sheets API to log, delete and check employees personal details. 
 - #### [User Info]() A social media clone using GraphQl. 
 
 ### Projects Finished 
+- #### [Custom React Boilerplate](https://github.com/petros-chantz/custom_react_boilerplate)A plug-and-play boilerplate with my most commonly used npm packages and storybook components.
 - #### [News App](https://github.com/petros-chantz/News-app) A minimalistic news app utilizing New York Times's top stories REST API.
 - #### [FAQ Accordion Card](https://github.com/petros-chantz/FAQ-app) A fictional FAQ Accordion Card for a commercial application.
 - #### [Portfolio](https://github.com/petros-chantz/test-portfolio) my professional portfolio
