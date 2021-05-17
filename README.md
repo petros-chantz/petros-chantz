@@ -11,7 +11,6 @@
 - #### [User Info]() A social media clone using GraphQl. 
 
 ### Projects Finished 
-- #### [Custom React Boilerplate](https://github.com/petros-chantz/custom_react_boilerplate) A plug-and-play boilerplate with my most commonly used npm packages and storybook components.
 - #### [News App](https://github.com/petros-chantz/News-app) A minimalistic news app utilizing New York Times's top stories REST API.
 - #### [FAQ Accordion Card](https://github.com/petros-chantz/FAQ-app) A fictional FAQ Accordion Card for a commercial application.
 - #### [Portfolio](https://github.com/petros-chantz/test-portfolio) my professional portfolio
