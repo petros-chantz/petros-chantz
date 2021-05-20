@@ -6,10 +6,10 @@
 <br/>
 
 ### Projects I'm currenty working on:
-- #### [Book Review](https://github.com/petros-chantz/Books-app) React app utilizing New York Times's Book Review REST API to let users discover new books. 
+- #### [Book Review](https://github.com/petros-chantz/Books-app) React app utilizing New York Times Book Review REST API to let users discover new books. 
 
 ### Projects Finished 
-- #### [News App](https://github.com/petros-chantz/News-app) A minimalistic news app utilizing New York Times's top stories REST API.
+- #### [News App](https://github.com/petros-chantz/News-app) A minimalistic news app utilizing New York Times top stories REST API.
 - #### [FAQ Accordion Card](https://github.com/petros-chantz/FAQ-app) A fictional FAQ Accordion Card for a commercial application.
 - #### [Portfolio](https://github.com/petros-chantz/test-portfolio) my professional portfolio
 
